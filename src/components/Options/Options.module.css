@@ -1,0 +1,30 @@
+.wrapper {
+  margin-bottom: 40px;
+}
+
+.btn {
+  border: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.btn:not(:last-of-type) {
+  margin-right: 12px;
+}
+
+.btn.good {
+  background-color: rgb(124, 255, 124);
+}
+
+.btn.neutral {
+  background-color: rgb(255, 235, 124);
+}
+
+.btn.bad {
+  background-color: rgb(255, 124, 124);
+}
+
+.btn.reset {
+  background-color: rgb(126, 124, 255);
+}

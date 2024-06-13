@@ -1,0 +1,14 @@
+.wrapper {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.title {
+  color: #86008a;
+  margin: 0 0 20px;
+}
+
+.description {
+  margin: 0;
+}
